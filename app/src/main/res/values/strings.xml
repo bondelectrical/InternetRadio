@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InternetRadio</string>
+    <string name="deleted_record">Delete Station</string>
+    <string name="add_station">Add Station</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="name_station">name Station</string>
+    <string name="link_station">link Station</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_station">Save New Station</string>
+    <string name="channel_name">Play stream music</string>
+    <string name="channel_description">Play Stream Internet Music Notification</string>
+    <string name="exit">Exit</string>
+</resources>
